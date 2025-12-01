@@ -1,4 +1,6 @@
 // Oefening 1: Tijdstip van laden
+const now = new Date();
+const currentTime = now.toLocaleTimeString();
 
 // Oefening 2: Voetbal uitslagen 
 
